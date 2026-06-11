@@ -1,2 +1,0 @@
-# Zombietracker
-Tracking zombie stocks
